@@ -6,6 +6,7 @@ import { Header } from "./header";
 import { Toaster } from "../components/ui/toaster";
 import { Footer } from "./footer";
 
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
